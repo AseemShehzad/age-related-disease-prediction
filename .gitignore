@@ -1,3 +1,5 @@
 *.png
 test_script.ipynb
 performance_tracking.csv
+
+.ipynb_checkpoints/
